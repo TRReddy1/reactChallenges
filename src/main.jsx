@@ -23,7 +23,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     {/* <Trafficlight /> */}
     {/* <AutotypeOnline /> */}
     {/* <AutotypeOffline /> */}
-    {/* <FileExplorer /> */}
-    <WaterBalancer />
+    <FileExplorer />
+    {/* <WaterBalancer /> */}
   </React.StrictMode>
 );
